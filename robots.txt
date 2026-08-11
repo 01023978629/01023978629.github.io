@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://01023978629.github.io/manmool/sitemap.xml
