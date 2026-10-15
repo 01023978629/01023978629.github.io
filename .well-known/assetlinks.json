@@ -1,0 +1,14 @@
+[
+  {
+    "target": {
+      "sha256_cert_fingerprints": [
+        "67:25:52:D9:FF:C9:2D:6D:F0:82:90:41:20:ED:DF:A5:F1:A5:4D:8A:9D:62:9F:04:86:D3:DF:4B:66:53:FE:57"
+      ],
+      "package_name": "kr.manmool.hyeonjang",
+      "namespace": "android_app"
+    },
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ]
+  }
+]
